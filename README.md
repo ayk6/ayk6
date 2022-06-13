@@ -1,9 +1,9 @@
-### Hi there, I'm Ahmet KARACA 👋
+## Hi, I'm Ahmet Y. KARACA 👋
 
-🌱 I’m currently learning Java & Selenium
-👩‍💻 I want to work as a software developer
+- 🌱 I’m currently learning Java & Selenium
+- 👩‍💻 I want to work as a software developer
 
-### Connect with me:
+## Connect with me:
 [<img align="left" alt="linkedin | LinkedIn" width="36px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="hackerrank | HackerRank" width="36px" src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s1600/logo%2Bhackerrank%2Bicon.png" />][hackerRank]
 
