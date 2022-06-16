@@ -1,7 +1,7 @@
 ## Hi, I'm Ahmet Y. KARACA 👋
 
 - 🌱 I’m currently learning Java & Selenium
-- 👩‍💻 I want to work as a software developer
+- 👨‍💻 I want to work as a software developer
 
 ## Connect with me:
 [<img align="left" alt="linkedin | LinkedIn" width="36px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
