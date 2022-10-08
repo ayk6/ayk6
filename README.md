@@ -1,7 +1,7 @@
 ## Hi, I'm Ahmet Y. KARACA 👋
 
 - 🌱 I’m currently learning Java
-- 🔭 I’m working on Back-end Development
+- 🔭 I’m working on Back-End Development
 - 👨‍💻 I want to work as a software developer
 
 ## Coding skills:
