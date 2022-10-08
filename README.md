@@ -10,6 +10,7 @@
 [<img align="left" alt="leetcode | Leetcode" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode]
 
 <br/>
+<br/>
 
 ## Connect with me:
 [<img align="left" alt="linkedin | LinkedIn" width="36px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
@@ -17,6 +18,7 @@
 [<img align="left" alt="stackOverflow | StackOverflow" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/512px-Stack_Overflow_icon.svg.png?20190716190036" />][stackOverlow]
 [<img align="left" alt="patika | Patika" width="36px" src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo.png" />][patika]
 
+<br/>
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/ahmetykaraca/
