@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Java
 - 🔭 I’m working on Back-End Development
-- 👨‍💻 I want to work as a software developer
+- 👨‍💻 I want to work as a full stack developer
 
 ## Coding skills:
 [<img align="left" alt="hackerrank | HackerRank" width="36px" src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s1600/logo%2Bhackerrank%2Bicon.png" />][hackerRank]
