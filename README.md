@@ -1,18 +1,9 @@
 ## Hi, I'm Ahmet Y. KARACA 👋
 
-- 🌱 I’m currently learning Java
-- 🔭 I’m working on Back-End Development
-- 👨‍💻 I want to work as a full stack developer
+- 👨‍💻 Full stack developer
+- 🌱 Always learning...
 
-## Coding skills:
-[<img align="left" alt="hackerrank | HackerRank" width="36px" src="https://1.bp.blogspot.com/-ULT9oDhqr24/XJYCrttOEpI/AAAAAAAAJYE/inXHXlzblBI3SbcGpiUj4TMNj-E8uPlaQCK4BGAYYCw/s1600/logo%2Bhackerrank%2Bicon.png" />][hackerRank]
-[<img align="left" alt="coderbyte | Coderbyte" width="36px" src="https://ph-files.imgix.net/9c97bf2c-f428-440b-845c-5060e4a8da91.png?auto=format%22%20alt=%22Coderbyte" />][coderbyte]
-[<img align="left" alt="leetcode | Leetcode" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode]
-
-<br/>
-<br/>
-
-## Connect with me:
+## Connect with me :
 [<img target="_blank" align="left" alt="linkedin | LinkedIn" width="36px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="twitter | Twitter" width="36px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-.png" />][twitter]
 [<img align="left" alt="stackOverflow | StackOverflow" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/512px-Stack_Overflow_icon.svg.png?20190716190036" />][stackOverlow]
@@ -21,21 +12,39 @@
 <br/>
 <br/>
 
-[linkedin]:  https://www.linkedin.com/in/ahmetykaraca/ 
+## Languages :
+[<img target="_blank" align="left" alt="java | Java" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />][java]
+[<img target="_blank" align="left" alt="javascript | Javascript" width="36px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />][c#]
+[<img target="_blank" align="left" alt="html | HTML" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />][html]
+[<img target="_blank" align="left" alt="javascript | Javascript" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />][javascript]
+
+<br/>
+<br/>
+
+ ## Tools :
+ [<img align="left" alt="twitter | Twitter" width="36px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />][spring]
+ [<img target="_blank" align="left" alt="selenium | Selenium" width="36px" src="https://avatars0.githubusercontent.com/u/983927?v=3&s=400" />][selenium]
+ [<img align="left" alt="css | CSS" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png" />][css]
+ [<img align="left" alt="react | React" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />][react]
+ [<img align="left" alt=".net | .NET" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" />][.net]
+
+ [linkedin]:  https://www.linkedin.com/in/ahmetykaraca/ 
 [hackerRank]: https://www.hackerrank.com/aykaraca 
 [coderbyte]: https://coderbyte.com/profile/aykaraca
 [leetcode]: https://leetcode.com/ayk6/
 [stackOverlow]: https://stackoverflow.com/users/19473554/ahmet-y-karaca
 [twitter]: https://twitter.com/ayk993
 [patika]: https://app.patika.dev/aykaraca
-
-## Languages and Tools:
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.selenium.dev/" target="_blank"> <img src="https://avatars0.githubusercontent.com/u/983927?v=3&s=400" alt="selenium" width="40" height="40"/> </a>
-<a href="https://html.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/806104/98771085-46d8f180-23a9-11eb-9caf-9d4c0f605749.png" alt="vscode" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+[java]: https://www.java.com
+[javascript]: _
+[html]: https://html.com/
+[c#]: https://learn.microsoft.com/en-us/dotnet/csharp/
+[selenium]: https://www.selenium.dev/
+[spring]: https://spring.io/
+[.net]: https://learn.microsoft.com/tr-tr/dotnet/welcome
+[react]: https://react.dev
+[css]: https://react.dev
+ 
 
 <!--
 **ayk6/ayk6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
