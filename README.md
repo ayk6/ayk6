@@ -17,6 +17,7 @@
 [<img target="_blank" align="left" alt="javascript | Javascript" width="36px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />][c#]
 [<img target="_blank" align="left" alt="html | HTML" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />][html]
 [<img target="_blank" align="left" alt="javascript | Javascript" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />][javascript]
+[<img target="_blank" align="left" alt="javascript | Javascript" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />][typescript]
 
 <br/>
 <br/>
@@ -37,6 +38,7 @@
 [patika]: https://app.patika.dev/aykaraca
 [java]: https://www.java.com
 [javascript]: _
+[typescript]: _
 [html]: https://html.com/
 [c#]: https://learn.microsoft.com/en-us/dotnet/csharp/
 [selenium]: https://www.selenium.dev/
